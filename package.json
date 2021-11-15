@@ -1,0 +1,7 @@
+{
+  "name": "moddable",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:dambusm/moddable.git",
+  "typings": "typings"
+}
